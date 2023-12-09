@@ -8,7 +8,11 @@ body {
   background: #fff;
   flex-shrink: 0;
 }
-
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .logo-header {
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
