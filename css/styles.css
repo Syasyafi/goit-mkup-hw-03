@@ -91,6 +91,7 @@ img {
   letter-spacing: 0.02em;
   text-decoration: none;
   display: block;
+  padding: 24px 0;
 }
 .manu-nav:hover,
 .manu-nav:focus {
@@ -175,6 +176,8 @@ button {
   height: 56px;
   border: none;
   border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .section-button:hover,
