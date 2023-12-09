@@ -79,7 +79,6 @@ img {
   align-self: flex-start;
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .manu-nav {
@@ -111,6 +110,7 @@ img {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
+  padding: 24px 0;
 }
 
 .contacts:hover,
@@ -118,7 +118,7 @@ img {
   color: #404bbf;
 }
 .container {
-  width: 1128px;
+  width: 1158px;
   margin: 0 auto;
 }
 .section.section-title {
