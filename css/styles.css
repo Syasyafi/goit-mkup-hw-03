@@ -257,9 +257,6 @@ h2 {
 .team-section {
   background: #f4f4fd;
 }
-.container.container-team {
-  padding: 32px;
-}
 
 .title-medium {
   text-align: center;
@@ -319,6 +316,7 @@ h2 {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   margin-bottom: 72px;
+  margin: 0;
 }
 
 .page-portfolio {
@@ -379,7 +377,6 @@ footer {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  padding: 100px 1169px 188px 156px;
   justify-content: center;
 }
 
