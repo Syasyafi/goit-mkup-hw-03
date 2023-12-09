@@ -34,11 +34,18 @@ img {
   display: flex;
   align-items: center;
 }
+
+.header-navigation {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .container {
-  width: 1158px;
   padding: 15px 0;
   margin: 0 auto;
+  width: 1158px;
 }
+
 .header-container {
   display: flex;
   justify-content: space-between;
@@ -72,6 +79,7 @@ img {
   align-self: flex-start;
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 
 .manu-nav {
