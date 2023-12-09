@@ -41,7 +41,7 @@ img {
 }
 
 .container {
-  padding: 15px 0;
+  padding: 0 15px;
   margin: 0 auto;
   width: 1158px;
 }
@@ -194,7 +194,7 @@ h2 {
   padding: 120px 0 120px;
 }
 .container {
-  width: 1128px;
+  width: 1158px;
   margin: 0 auto;
 }
 .features-list {
