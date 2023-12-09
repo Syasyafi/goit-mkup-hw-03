@@ -62,6 +62,7 @@ img {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .logo-span {
@@ -90,7 +91,6 @@ img {
   letter-spacing: 0.02em;
   text-decoration: none;
   display: block;
-  padding: 24px 0;
 }
 .manu-nav:hover,
 .manu-nav:focus {
