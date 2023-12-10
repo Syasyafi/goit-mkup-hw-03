@@ -155,6 +155,7 @@ section {
   letter-spacing: 1.12px;
   background: #2e2f42;
   flex-shrink: 0;
+  margin-bottom: 48px;
 }
 button {
   cursor: pointer;
